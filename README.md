@@ -1,6 +1,6 @@
 World for Constance Archipelago, currently unfinished
 
-Constance Client - https://github.com/Huskslay/Constance-Archipelago-Client/blob/main/README.md
+Constance Client - https://github.com/Huskslay/Constance-Archipelago-Client/
 
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
 
